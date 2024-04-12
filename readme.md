@@ -1,4 +1,4 @@
-# Demo Accessibility Test using cypress and axe
+# Demo Accessibility Test using cypress and pa11y
 
 ## What is inside
 - cypress e2e tests using axe-core
