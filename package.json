@@ -1,0 +1,15 @@
+{
+  "name": "bf_test_cypress",
+  "version": "1.0.0",
+  "description": "try to test accessibility with cypress",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress-audit/pa11y": "^1.4.2",
+    "cypress": "^13.7.2",
+    "cypress-iframe": "^1.0.1"
+  }
+}
